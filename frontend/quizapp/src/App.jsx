@@ -6,7 +6,11 @@
 function App() {
   
 
-  return <h1>hi piko </h1>
+  return (
+    <div className="text-5xl text-red-700 text-center mt-8">
+      <p>welcome hello</p>
+    </div>
+  );
 
 }
 export default App
